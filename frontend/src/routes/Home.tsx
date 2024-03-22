@@ -6,6 +6,7 @@ const Home: React.FC = () => {
     <div className="home">
       <h1>Calendars Landing Page</h1>
       <p>Here will be the calendar</p>
+      <p>New</p>
     </div>
   );
 };
